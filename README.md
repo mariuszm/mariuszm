@@ -58,9 +58,8 @@ I am a frontend developer passionate about web technologies including JavaScript
 ---
 
 ## Developer stats
-&nbsp;[![](https://img.shields.io/github/followers/mariuszm?style=flat&color=blue&label=Followers&logo=github)](https://github.com/mariuszm)
-![Profile Views](https://komarev.com/ghpvc/?username=mariuszm&style=flat&color=blue)
-<br>
-![](https://github-readme-stats.vercel.app/api?username=mariuszm&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mariuszm&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariuszm&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <a href="#"><img alt="Mariusz's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mariuszm&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="430px"></a>
+  <a href="#"><img alt="Mariusz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariuszm&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px"></a><br>
+<!--   <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i> -->
+</p>
