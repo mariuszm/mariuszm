@@ -63,3 +63,6 @@ I am a frontend developer passionate about web technologies including JavaScript
   <a href="#"><img alt="Mariusz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariuszm&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px"></a><br>
 <!--   <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i> -->
 </p>
+
+[![](https://img.shields.io/github/followers/mariuszm?style=flat&color=blue&label=Followers&logo=github)](https://github.com/mariuszm)
+![Profile Views](https://komarev.com/ghpvc/?username=mariuszm&style=flat&color=blue)
