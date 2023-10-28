@@ -1,5 +1,5 @@
-# About Me
-I am a frontend developer passionate about web technologies including JavaScript, CSS3 and HTML5. I specialize in developing modern applications optimized for best performance and flawless UX.
+# Hey 👋 I am Mariusz Michalski!
+But don't hesitate to call me Mario. I am a frontend developer passionate about web technologies including JavaScript, CSS3 and HTML5. I specialize in developing modern single page applications optimized for best performance and flawless UX.
 
 ---
 
