@@ -24,6 +24,7 @@ I continue my career as a JavaScript expert who loves working with the latest to
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2335495e.svg?style=flat&logo=nuxtdotjs&logoColor=%234FC08D)
 ![React](https://img.shields.io/badge/React.js-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-333333.svg?style=flat&logo=nextdotjs&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
