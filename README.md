@@ -1,5 +1,5 @@
 # Hey 👋 I am Mariusz Michalski!
-##### I am a frontend developer. I deliver snappy apps.
+### I am a frontend developer.<br />I deliver snappy apps.
 
 I have had the opportunity to develop applications for:
 - companies in the financial/banking sector
