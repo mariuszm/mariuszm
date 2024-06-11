@@ -8,7 +8,7 @@ I have had the opportunity to develop applications for:
 - top set-top box manufacturers
 
 I continue my career as a JavaScript expert who loves working with the latest tools and technologies.
-- my current stack is React.js, TypeScript, Zustand, Vite.js
+- my current stack is React.js, TypeScript, Zustand, Vite.js, Vue.js, Pinia
 - I'm learning full stack development (Nuxt.js, Next.js)
 
 ---
