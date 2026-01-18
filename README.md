@@ -1,16 +1,13 @@
-# Hey 👋 I am Mariusz Michalski!
-### I am a frontend developer.<br />I deliver snappy apps.
+# Hey 👋 I am Mariusz!
+
+A React/TypeScript guy on a daily basis.<br />
+In love with Vue/Nuxt + Astro in recent years - this is my dream stack 💚
 
 I have had the opportunity to develop applications for:
 - companies in the financial/banking sector
 - innovative start-ups
 - the largest automotive companies in the world
 - top set-top box manufacturers
-
-I continue my career as a JavaScript expert who loves working with the latest tools and technologies.
-- my current stack is React.js, TypeScript, Zustand, Vite.js, Vue.js, Pinia
-- I'm learning full stack development (Nuxt.js, Next.js)
-
 ---
 
 ### Connections
