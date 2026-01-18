@@ -1,13 +1,13 @@
 # Hey 👋 I am Mariusz!
 
-A React/TypeScript guy on a daily basis.<br />
-In love with Vue/Nuxt + Astro in recent years - this is my dream stack 💚
+Frontend developer working mainly with React & TypeScript.<br />
+Lately enjoying Vue/Nuxt and Astro a lot 💚
 
-I have had the opportunity to develop applications for:
-- companies in the financial/banking sector
-- innovative start-ups
-- the largest automotive companies in the world
-- top set-top box manufacturers
+I’ve worked on products for:
+- finance & banking
+- start-ups
+- automotive
+- set-top box manufacturers
 ---
 
 ### Connections
