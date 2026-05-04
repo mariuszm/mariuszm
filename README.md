@@ -1,13 +1,10 @@
 # Hey 👋 I am Mariusz!
 
-Frontend developer working mainly with React & TypeScript.<br />
-Lately enjoying Vue/Nuxt and Astro a lot 💚
+Frontend developer with nearly two decades of experience.<br />
+Building modern web applications with Vue/Nuxt and Astro, with extensive experience in React and TypeScript.<br />
+Focused on performance, maintainability, and great DX/UX.
 
-I’ve worked on products for:
-- finance & banking
-- start-ups
-- automotive
-- set-top box manufacturers
+I’ve delivered products across finance, startups, automotive, and consumer electronics, working with modern frontend architectures, testing strategies, and UI systems.
 ---
 
 ### Connections
